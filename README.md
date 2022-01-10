@@ -1,1 +1,1 @@
-# Mail-Chimp-API
+# Mail-Chimp-Newletter
